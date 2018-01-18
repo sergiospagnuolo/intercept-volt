@@ -1,0 +1,79 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height:100%;
+}
+#info-map-controls {
+    background-color: #fff;
+    position: absolute;
+    height: 140px;
+    top: 0;
+    font: 10px sans-serif;
+    width: 100%;
+}
+
+#info-map-controls.collapsed {
+    margin-top: -55px;
+}
+
+#info-map-controls svg {
+    background: white;
+    opacity: 0.9;
+    width: 100%;
+}
+#slider {
+    width: 100%;
+    margin: 0 auto;
+}
+#info-map {
+    z-index: 0;
+    /*display: none;*/
+    height: 100%;
+    background-color: #f7f7f7;
+}
+
+
+path.line {
+    fill: none;
+    stroke: #666;
+    stroke-width: 1.5px;
+}
+
+.axis {
+    shape-rendering: crispEdges;
+}
+
+.x.axis line {
+    stroke: none;
+}
+
+.x.axis.bottom line {
+    stroke: #bbb;
+}
+
+.x.axis.bottom text {
+    display: none;
+}
+
+.x.axis path {
+    display: none;
+
+}
+
+.x.axis text {
+    fill: #666;
+}
+
+.y.axis path {
+    fill: none;
+    stroke: none;
+}
+
+.y.axis line {
+    stroke: #bbb;
+    stroke-dasharray: 1,3;
+}
+
+.y.axis text {
+    fill: #666;
+}
