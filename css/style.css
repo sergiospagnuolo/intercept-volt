@@ -3,6 +3,15 @@ html, body{
     padding: 0;
     height:100%;
 }
+
+.leaflet-top {
+    top: 140px;
+}
+.leaflet-bar {
+    box-shadow: 0px 0px 5px #ccc !important;
+    border-radius: 5px !important;
+    border: none !important;
+}
 #info-map-controls {
     background-color: #fff;
     position: absolute;
@@ -31,8 +40,56 @@ html, body{
     height: 100%;
     background-color: #f7f7f7;
 }
-
-
+#info-map-legend {
+    position: absolute;
+    z-index: 1;
+    /*padding: 20px;*/
+    right: 30px;
+    bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #ccc;
+    border-radius: 5px;
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #aaa;
+}
+#info-map-legend h3 {
+    display: block;
+    font-size: 14px;
+    margin: 0;
+    padding: 20px 20px 10px;
+    font-weight: lighter;
+}
+#info-map-legend ul {
+    margin: 0;
+    padding: 0 20px;
+    list-style: none;
+}
+#info-map-legend li {
+    margin: 0 0 5px;
+    padding: 0;
+    font-size: 14px;
+}
+#info-map-legend span.source {
+    display: block;
+    border-top: 1px solid #ccc;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+#info-map-legend li > .faccao,
+#info-map-legend li > .milicia {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+#info-map-legend li > .faccao {
+    background-color: #ae31d7;
+}
+#info-map-legend li > .milicia {
+    background-color: #34d7ac;
+}
 path.line {
     fill: none;
     stroke: #666;
@@ -77,3 +134,50 @@ path.line {
 .y.axis text {
     fill: #666;
 }
+
+.slider-thumb {
+    color: white;
+    height: 20px;
+    padding: 0;
+    position: absolute;
+    width: 20px;
+    z-index: 0;
+    top: 45px !important;
+}
+
+.slider-thumb .slider-handle-start,
+.slider-thumb .slider-handle-end {
+    height: 20px;
+    width: 20px;
+    background: url(slider.svg) no-repeat top left;
+    background-size: contain;
+    margin-left: -10px;
+}
+.slider-thumb .slider-handle-start {
+    cursor: w-resize;
+    margin-left: 20px;
+
+}
+.slider-thumb .slider-handle-end {
+    cursor: e-resize;
+
+}
+.slider-thumb:hover {
+}
+
+.marker .guideline {
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
+.marker .guideline.drag {
+    stroke-width: 1px;
+}
+
+.selection {
+    cursor: move;
+    fill: rgb(138, 138, 138);
+    opacity: 0.2;
+}
+
+
