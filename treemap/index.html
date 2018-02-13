@@ -10,10 +10,14 @@
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,800" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>intercept - facções vs milícias 2016/2017</title>
+	<title>Intercept | Facções vs Milícias 2016/2017</title>
 </head>
-
 <body>
+
+<h1>Divisão do crime</h1>
+<h2>Quem ganhou mais território em cidades do Rio de Janeiro, <span style="color:#8280FF">fações</span> ou <span style="color:#11CE5C">milícias</span>? No gráfico abaixo, compare a participação de cada organização criminosa em relação a 12,8 mil ocorrências reportadas ao Disque Denúncia entre 2016 e 2017.</h2>
+<div id="wrapper"> </div>
+<h5>Fonte: Disque Denúncia</h5>
 
 
 	<script>
@@ -1724,13 +1728,14 @@
 			}
 
 			function Gn() {
-				Mc = ra("body").append("div").attr("id", "wrapper");
+				//Mc = ra("body").append("div").attr("id", "wrapper");
+				Mc = ra("body").select("div").attr("id", "wrapper");
 				var e = Mc.append("div").attr("id", "dropdown-container");
 				e.append("span").attr("id", "dropdown-label"), e.append("div").attr("id", "dropdown").append("select").attr("name", "province-dropdown"), vc = Mc.append("svg").attr("id", "graphic"), Mc.append("div").attr("id", "legend"), xc = window.innerWidth >
 					520 ? 120 : 80, yc = vc.append("g").attr("id", "plot").attr("transform", "translate(0, 30)"), Ac = yc.append("g").attr("id", "plot_background"), Ac.append("rect"), Ac.append("text"), _c = yc.append("g").attr("class", "bar_group").attr("height",
 						xc - 20), wc = yc.append("g").attr("id", "middle-line"), wc.append("line"), wc.append("text");
 				var t = Mc.append("div").attr("class", "annotation-layer");
-				t.append("img").attr("src", Flourish.static_prefix + "/arrow.svg"), t.append("p")
+				t.append("img").attr("src", Flourish.static_prefix + ""), t.append("p")
 			}
 
 			function Kn(e) {
@@ -1884,8 +1889,8 @@
 						}).attr("height", xc - 20).attr("fill", gc).attr("id", function(e, t) {
 							return r[t]
 						}),
-						h.select(".number-title").text(function(e) {
-							if (e.value > 0) return e.value + fc.label_suffix
+						h.select(".number-title").html(function(e) {
+							if (e.value > 0) return e.value + fc.label_suffix + " em 2017"
 						}).transition().attr("x", 5).attr("y", 15).attr("dy", ".35em").attr("fill", fc.label_font_color).attr("font-size", fc.label_font_size).each(function(e) {
 							var t = this.getBBox().width,
 								n = u(e.value);
@@ -3806,8 +3811,8 @@
 	<script>
 		var _Flourish_settings = {
 			"current_id": "RIO DE JANEIRO",
-			"custom_colors": "#11CE5C, #8280FF",
-			"dropdown_label": "Comparar percentual <br />para <strong>12,8 mil ocorrências</strong> <br />no Disque Denúncia <br />em 2017 para: ",
+			"custom_colors": "#8280FF, #11CE5C",
+			"dropdown_label": "Selecione uma cidade: ",
 			"dropdown_translations": "RIO DE JANEIRO: RIO DE JANEIRO",
 			"hide_dropdown": false,
 			"hide_empty_rows": true,
@@ -3973,6 +3978,7 @@
 		}
 		window.template.draw();
 	</script>
+
 </body>
 
 </html>
