@@ -1,0 +1,73 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Intercept - Gráficos</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <script src="js/d3plus/d3plus.full.js"></script>
+        <script src="js/d3plus/d3plus.js"></script>
+        <script src="js/d3plus/d3plus-hierarchy.v0.3.full.min.js" type="text/javascript">  </script>
+        <style>
+        <style type = "text/css">
+        @font-face {
+            font-family: TIActuBeta-Bold;
+            src: url("TIActuBeta-Bold.otf");
+        		font-weight: bold;
+        }
+        @font-face {
+            font-family: TIActuBeta-Regular;
+            src: url("TIActuBeta-Regular.otf");
+        }
+        body{
+          background-color: #333;
+          color: #f4f4f4;
+          font-family: cursive;
+        }
+        a{
+          color: #f4f4f4
+        }
+        </style>
+    </head>
+    <body>
+      <div style="max-width: 900px;margin: 0 auto; height: 800px;">
+        <div id="grafico"> </div>
+        <div id="legenda"></div>
+      </div>
+
+      <script>
+
+      //var data = JSON.parse('data.json');
+
+  new d3plus.Treemap()
+    .data("data.json")
+    .groupBy(["org", "cidade"])
+    .select("#grafico")
+    //.shapeConfig({fill: function(d) { return d.cor; }})
+    .shapeConfig({
+    labelConfig: {
+                  fontFamily: "TIActuBeta-Regular",
+                  fontMax: 50
+                },
+                fill: function(d) { return d.cor; },
+              })
+    .padding(5)
+    .render();
+
+    new d3plus.Legend()
+    .data("data.json")
+  .shapeConfig({
+    backgroundImage: function(d) { return d.image; },
+    fill: function(d) { return d.color; },
+    height: 25,
+    width: 25
+  })
+    .render();
+
+
+      </script>
+
+    </body>
+</html>
