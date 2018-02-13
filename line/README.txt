@@ -1,1 +1,1 @@
-You can put static files in this directory.
+Line chart in Portuguese for Intercept special
