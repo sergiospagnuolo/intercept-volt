@@ -1,0 +1,7366 @@
+[
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": null,
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "ANDRADE ARAÚJO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "ANDRADE ARAÚJO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "AREIA BRANCA",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "AREIA BRANCA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "BOA SORTE",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "BOA SORTE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "BOM PASTOR",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "CHÁCARA SANTO ANTÔNIO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "DAS GRAÇAS",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "DAS GRAÇAS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "DOIS IRMÃOS",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "GLAUCIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "GLÁUCIA",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "GLÁUCIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "HELIÓPOLIS",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "HITERLAND",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "HITERLAND",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "ITAIPU",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM BRASIL",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM BRASIL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM CRISTINA",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM DIMAS FILHO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM IDEAL",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM SÃO BENTO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "JARDIM SILVANA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "LOTE XV",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "LOTE XV",
+		"org": "milícia",
+		"value": 12,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "MALHAPÃO",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "MARINGÁ",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "MIGUEL COUTO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "MIGUEL COUTO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "NOVA AURORA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "NOVA AURORA",
+		"org": "milícia",
+		"value": 15,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "OUTEIRO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "OUTEIRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE AMORIM",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE BOA SORTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE COLONIAL",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE ESPERANÇA",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE ESPERANÇA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE FLORESTA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE FLUMINENSE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE JORDÃO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE NOSSA SENHORA APRECIDA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE RENASCENÇA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE ROSEIRAL",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE SANTA BRANCA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE SANTA RITA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE SÃO VICENTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE SÃO VICENTE",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE UNIÃO 4",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PARQUE VENEZA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PAULINE",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PAULINE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PIAM",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "PIAM",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "RECANTUS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "RECANTUS",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "REDENTOR",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "REDENTOR",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA AMÉLIA",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA EMÍLIA",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA MARIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA MARIA",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA TEREZA",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTA TEREZA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTO ANTÔNIO DA PRATA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SANTO ANTÔNIO DA PRATA",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO FRANCISCO DE ASSIS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO JOSÉ",
+		"org": "facção",
+		"value": 24,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO JOSÉ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO LEOPOLDO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO LEOPOLDO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO LUCAS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÃO VICENTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SHANGRI-LÁ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SHANGRI-LÁ",
+		"org": "milícia",
+		"value": 41,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SÍTIO RETIRO FELIZ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SUBLIME",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "SUBLIME",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VALE DO IPÊ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VALE DO IPÊ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA DAGMAR",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA ESPERANÇA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA JOÃO RODRIGUES",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA JOEMA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA JOLA",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA MAIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA MEDEIROS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA SANTA RITA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA SANTA TERESA",
+		"org": "facção",
+		"value": 45,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA SANTA TERESA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA SANTO ANTÔNIO",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA VERDE",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "VILA VITORIO",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "WONA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "WONA",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "BELFORD ROXO",
+		"bairro": "XAVANTES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "CACHOEIRAS DE MACACU",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "CACHOEIRAS DE MACACU",
+		"bairro": "BOA VISTA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "CACHOEIRAS DE MACACU",
+		"bairro": "BOA VISTA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "CACHOEIRAS DE MACACU",
+		"bairro": "PACUCAIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "CACHOEIRAS DE MACACU",
+		"bairro": "PAPUCAIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "CAMPOS DOS GOITACAZES",
+		"bairro": "NOVA GOITACAZES",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": null,
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "AMAPÁ",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "BARRO BRANCO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CAMPOS ELÍSEOS",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CAMPOS ELÍSEOS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CANGULO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CANGULO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CAPIVARI",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CAPIVARI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CAROLINA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CHÁCARAS ARCAMPO",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CHÁCARAS ARCAMPO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CHÁCARAS RIO-PETRÓPOLIS",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CHÁCARAS RIO-PETRÓPOLIS",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "CIDADE DOS MENINOS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "DOUTOR LAUREANO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "GRAÇAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "GRAMACHO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "GRAMACHO",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "IMBARIÊ",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM 25 DE AGOSTO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM ANHANGÁ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM ANHANGÁ",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM BALNEÁRIO ANA CLARA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM BALNEÁRIO ANA CLARA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM BARRO BRANCO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM CUBATÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM GRAMACHO",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM GRAMACHO",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM IMBARIÊ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM IMBARIÊ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM LEAL",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM LÍDER",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM LÍDER",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM PORANGABA",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM PRIMAVERA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM PRIMAVERA",
+		"org": "milícia",
+		"value": 20,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM ROSÁRIO",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM ROSÁRIO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM SANTA RITA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM VILA NOVA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM VINTE E CINCO DE AGOSTO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM VINTE E CINCO DE AGOSTO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "JARDIM VISTA ALEGRE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "NOSSA SENHORA DO CARMO",
+		"org": "milícia",
+		"value": 21,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "NOVA CAMPINAS",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "OLAVO BILAC",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "OLAVO BILAC",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "OUTEIRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARADA ANGÉLICA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARADA ANGÉLICA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARADA MORABI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE A EQUITATIVA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE BEIRA MAR",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE BEIRA MAR",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE BOA VISTA II",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE CAPIVARI",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE CENTENÁRIO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE CHUNO",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE CHUNO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE DAS MISSÕES",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE ELDORADO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE ESTRELA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE ESTRELA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE FELICIDADE",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE FELICIDADE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE FLUMINENSE",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE IMPÉRIO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE INDEPENDÊNCIA",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE JOÃO PESSOA",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE JOÃO PESSOA",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE LAFAIETE",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE LAFAIETE",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE LAGUNA E DOURADOS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE MUÍSA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE PAULICÉIA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE PAULISTA",
+		"org": "facção",
+		"value": 35,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE PAULISTA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SANTA LÚCIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SANTA LÚCIA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SÃO BENTO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SÃO CARLOS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SÃO JOÃO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE SÃO PEDRO DE ALCÂNTARA",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE URUGUAIANA",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE VILA NOVA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE VITÓRIA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARQUE XERÉM",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PARUQE BOA VISTA II",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PERIQUITOS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "PILAR",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANO ANTÔNIO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANO ANTÔNIO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANTA CRUZ DA SERRA",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANTA LÚCIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANTA LÚCIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SANTO ANTÔNIO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SÃO BENTO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SÃO BENTO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SARACURUNA",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "SARACURUNA",
+		"org": "milícia",
+		"value": 38,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "TAQUARA",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "TAQUARA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA ACTURA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA CAETANO MADEIRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA CENTENÁRIO",
+		"org": "facção",
+		"value": 16,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA CENTENÁRIO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA EMA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA GUANABARA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA GUANABARA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA IDEAL",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA ITAMARATI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA LEOPOLDINA",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA MARIA HELENA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA MARIA HELENA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA MERITI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA NOSSA SENHORA DAS GRAÇAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA ROSÁRIO",
+		"org": "facção",
+		"value": 37,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA ROSÁRIO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SANTA ALICE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SANTA CRUZ",
+		"org": "facção",
+		"value": 60,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SANTA CRUZ",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SANTO ANTÔNIO",
+		"org": "facção",
+		"value": 30,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SANTO ANTÔNIO",
+		"org": "milícia",
+		"value": 22,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SÃO JUDAS TADEU",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SÃO LUIS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SÃO LUIS",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SÃO SEBASTIÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SAPÊ",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SAPÊ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SARAPUÍ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SARAPUÍ",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA SHEILA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA URUSSAÍ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "VILA URUSSAÍ",
+		"org": "milícia",
+		"value": 25,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "DUQUE DE CAXIAS",
+		"bairro": "XERÉM",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "GUAPIMIRIM",
+		"bairro": "CIDADE JARDIM GUAPIMIRIM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "GUAPIMIRIM",
+		"bairro": "PARADA MODELO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "GUAPIMIRIM",
+		"bairro": "PARQUE FLEIXAL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "GUAPIMIRIM",
+		"bairro": "VALE DAS PEDRINHAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "AMPLIAÇÃO",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "APOLO II",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "APOLO II",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "AREAL",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "BELA VISTA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CABUÇU",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO (MANILHA)",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO (MANILHA)",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO (PORTO DAS CAIXAS)",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "CENTRO (VISCONDE DE ITABORAÍ)",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "ENGENHO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "ESPERANÇA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "GEBARA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "GRANJAS CABUÇU",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "JARDIM DA PAZ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "JARDIM ITAMBI",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "JARDIM ITAMBI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "JOÃO CAETANO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "MARAMBAIA",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "MONTE VERDE",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "NOVA CIDADE",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "OUTEIRO DAS PEDRAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "PARQUE AURORA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "QUISSAMÃ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "RETIRO SÃO JOAQUIM",
+		"org": "milícia",
+		"value": 17,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "RIO VÁRZEA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "SANTO ANTÔNIO (MANILHA)",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "SOSSEGO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "VENDA DAS PEDRAS",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITABORAÍ",
+		"bairro": "VILA BRASIL",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": null,
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "BRISA MAR",
+		"org": "facção",
+		"value": 25,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "BRISA MAR",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "BRISAMAR",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "CALIFÓRNIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "CENTRO (VISCONDE DE ITABORAÍ)",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "CHAPERÓ",
+		"org": "milícia",
+		"value": 51,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "COROA GRANDE",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "COROA GRANDE",
+		"org": "milícia",
+		"value": 30,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "ENGENHO",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "ENGENHO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "ESTRELA DO CÉU",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "ESTRELA DO CÉU",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "ILHA DA MADEIRA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "JARDIM AMÉRICA",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "JARDIM AMÉRICA",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "JARDIM LAIÁ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "JARDIM MAR",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "LEANDRO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "LEANDRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "MAZOMBA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "SANTANA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "SOMEL",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "TEIXEIRAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "VILA GENY",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "VILA IBIRAPITANGA",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "VILA IBIRAPITANGA",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "VILA MARGARIDA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "VILA MARGARIDA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "ITAGUAÍ",
+		"bairro": "WEDA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": null,
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "ALECRIM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "ALECRIM",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "BEIRA RIO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "BELO HORIZONTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CHÁCARA PARAÍSO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CHACRINHA",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CHACRINHA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CIDADE JARDIM MARAJOARA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "CITRÓPOLIS",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "COSME DAMIÃO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "ENGENHEIRO PEDREIRA",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "ENGENHEIRO PEDREIRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JAPERI",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JAPERI",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JARDIM DELAMARE",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JARDIM EMÍLIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JARDIM NORMANDIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "JARDIM SÃO SEBASTIÃO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "NOVA BELÉM",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "PARQUE GUANDU",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "PARQUE MUCAJÁ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "PARQUE SÃO BENEDITO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "PARQUE SÃO SEBASTIÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "SÃO JORGE",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "JAPERI",
+		"bairro": "VILA NOSSA SENHORA DA CONCEIÇÃO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "CITROLÂNDIA",
+		"org": "milícia",
+		"value": 31,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "IPIRANGA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "IPIRANGA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "IRIRI",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "MUNDO NOVO",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "MUNDO NOVO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "NOVA MARÍLIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "NOVO MUNDO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "PARQUE DO IMPERADOR",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "PIABETÁ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "PIABETÁ",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "PRAIA DA ESPERANÇA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "RONCADOR",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "SACO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "SACO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "SANTO ALEIXO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "SANTO ALEIXO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "SÃO FRANCISCO DO CUARÁ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "VILA DA LIBERDADE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "VILA ESPERANÇA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "VILA INCA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "VILA NOVA (SURUÍ)",
+		"org": "facção",
+		"value": 26,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MAGÉ",
+		"bairro": "VILA NOVA (SURUÍ)",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "ARAÇATIBA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "CODEIRINHO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "FLAMENGO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "INOÃ",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "INOÃ",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "ITAIPUAÇU",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "ITAIPUAÇU",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "ITAPEBA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "ITAPEBA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "JACONÉ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "PINDOBAL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "PONTA NEGRA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "PONTA NEGRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MARICÁ",
+		"bairro": "SÃO JOSÉ DO IMABASSAÍ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": null,
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "ALTO URUGUAI",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "BANCO DE AREIA",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "BNH",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CHATUBA",
+		"org": "facção",
+		"value": 33,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CHATUBA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "COREIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CORÉIA",
+		"org": "facção",
+		"value": 40,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "CORÉIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "EDSON PASSOS",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "EDSON PASSOS",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "JACUTINGA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "JUSCELINO",
+		"org": "facção",
+		"value": 106,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "ROCHA SOBRINHO",
+		"org": "facção",
+		"value": 17,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "ROCHA SOBRINHO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "SANTA TERESINHA",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "SANTA TERESINHA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "SANTO ELIAS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "VILA EMIL",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "VILA EMIL",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "MESQUITA",
+		"bairro": "VILA NORMA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "CABRAL",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "CABUIS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "OLINDA",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "OLINDA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "PAIOL DE PÓLVORA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NILÓPOLIS",
+		"bairro": "PAIOL DE PÓLVORA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": null,
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ATALAIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "BADU",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "BADU",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "BARRETO",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CARAMUJO",
+		"org": "facção",
+		"value": 18,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CHARITAS",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CHARITAS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "CUBANGO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ENGENHO DO MATO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ENGENHOCA",
+		"org": "facção",
+		"value": 27,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "FÁTIMA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "FONSECA",
+		"org": "facção",
+		"value": 41,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "FONSECA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ICARAÍ",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ICARAÍ",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ILHA DA CONCEIÇÃO",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ILHA DA CONCEIÇÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "INGÁ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ITAIPU",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ITAIPU",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "ITITIOCA",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "JURUJUBA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "LARGO BARRADAS",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "LARGO DA BATALHA",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "MACEIÓ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "MARAVISTA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "MARIA PAULA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "PENDOTIBA",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "PIRATININGA",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "PIRATININGA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SANTA ROSA",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SANTANA",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SÃO DOMINGOS",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SÃO FRANCISCO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SÃO LOURENÇO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "SAPÊ",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "TENENTE JARDIM",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "VÁRZEA DAS MOÇAS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NITERÓI",
+		"bairro": "VÁRZEA DAS MOÇAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": null,
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": null,
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ADRIANÓPOLIS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AMBAÍ",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AMBAÍ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ANDRADE DE ARAÚJO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AUSTIN",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AUSTIN",
+		"org": "milícia",
+		"value": 57,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AUTÓDROMO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "AUTÓDROMO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BARÃO DE GUANDU",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BARÃO DE GUANDU",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BELTERRA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BELTERRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BOA ESPERANÇA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BOTAFOGO",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "BOTAFOGO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CABUÇU",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CABUÇU",
+		"org": "milícia",
+		"value": 171,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CACUIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CALIFÓRNIA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CAMARY",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CAONZE",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CAONZE",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CARMARY",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CARMARY",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CERÂMICA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CERÂMICA",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CIDADE JARDIM PARQUE ESTORIL",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "CIDADE JARDIM PARQUE ESTORIL",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "COMENDADOR SOARES",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "COMENDADOR SOARES",
+		"org": "milícia",
+		"value": 17,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "DA LUZ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "DANON",
+		"org": "facção",
+		"value": 36,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "DANON",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "DOM RODRIGO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ENGENHO PEQUENO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ENGENHO PEQUENO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "FIGUEIRAS",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "GENECIANO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "GENECIANO",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "GRAMA",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "IPIRANGA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "IPIRANGA",
+		"org": "milícia",
+		"value": 20,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM ALVORADA",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM CANAA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM FONTE SÃO MIGUEL",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM GUANDU",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM GUANDU",
+		"org": "milícia",
+		"value": 15,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM IGUAÇU",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM IMPÉRIO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM MARILICE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM NATAL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM NOVA ERA",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM NOVA ERA",
+		"org": "milícia",
+		"value": 43,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM PALMARES",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM PALMARES",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM PERNAMBUCO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM PERNAMBUCO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM SAO VICENTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM SÃO VICENTE",
+		"org": "facção",
+		"value": 23,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM SÃO VICENTE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "JARDIM TROPICAL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KENNEDY",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KENNEDY",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 24",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 25",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 26",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 27",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 28",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 29",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 30",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 31",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 32",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 33",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 34",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM 35",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "KM32",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "LAGOINHA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "LAGOINHA",
+		"org": "milícia",
+		"value": 12,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "MARAPICU",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "MARAPICU",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "METRÓPOLE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "MIGUEL COUTO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "MIGUEL COUTO",
+		"org": "milícia",
+		"value": 47,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "NOSSA SENHORA DE FÁTIMA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "NOVA AMÉRICA",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "OURO VERDE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "OURO VERDE",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PALHADA",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PALHADA",
+		"org": "milícia",
+		"value": 39,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARAÍSO",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARAÍSO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE AMBAÍ",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE DO LARANJAL",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE FLORA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE FLORA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE SÃO CARLOS",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE SÃO VICENTE DE PAULO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PARQUE SÃO VICENTE DE PAULO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PONTO CHIC",
+		"org": "milícia",
+		"value": 26,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "POSSE",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "POSSE",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PRADOS VERDES",
+		"org": "milícia",
+		"value": 12,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PRATA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "PRATA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "RANCHO FUNDO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "RIACHÃO",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "RIACHÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "RIO DO OURO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ROSA DOS VENTOS",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "ROSA DOS VENTOS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "SANTA EUGÊNCIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "SANTA EUGÊNIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "SANTA RITA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "SANTA RITA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "SANTOS NEVES",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "TINGUÁ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "TRÊS CORAÇÕES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VALVERDE",
+		"org": "milícia",
+		"value": 47,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA BANDEIRANTES",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA BORGERTH",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA DE CAVA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA DE CAVA",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA GAÚCHA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA GUIMARÃES",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA GUIMARÃES",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA IGUAÇUANA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA MORRO AGUDO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA MORRO AGUDO",
+		"org": "milícia",
+		"value": 15,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA OLORUM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA ÔMEGA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA SANTOS NETO",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA SÃO LUIS",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA SÃO LUIS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "NOVA IGUAÇU",
+		"bairro": "VILA SÃO TEODORO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "BOM JARDIM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "LAGES",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "LAGES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "MUTIRÃO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "NOVO GUARAJUBA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "SABUGO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "SABUGO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "PARACAMBI",
+		"bairro": "VILA NOVA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": null,
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "ALIANÇA",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "ALIANÇA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "BELMONTE",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "CAMPO ALEGRE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "CAMPO ALEGRE",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 16,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "FANCHEM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "FLESMAM",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "JARDIM ALZIRA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "JARDIM QUEIMADOS",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "MORRO DA PAZ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "NOSSA SENHORA DE FÁTIMA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "NOSSA SENHORA DE FÁTIMA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PARQUE IPANEMA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PARQUE JURUTI",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PARQUE VALDAIROSA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PARQUE VALDAIROSA",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PONTE PRETA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "PONTE PRETA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "QUEIMADOS",
+		"org": "facção",
+		"value": 22,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "QUEIMADOS",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "RODOVIÁRIO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "RONCADOR",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SANTA ROSA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SANTO ANTÔNIO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SANTO EXPEDITO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SÃO FRANCISCO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SÃO FRANCISCO",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SÃO ROQUE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SÃO SIMÃO",
+		"org": "facção",
+		"value": 56,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "SÃO SIMÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "TINGUÁ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "TRÊS FONTES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA AMERICANA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA CAMARIM",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA COIMBRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA NASCENTE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA NASCENTE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "QUEIMADOS",
+		"bairro": "VILA TARUMÃ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO BONITO",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": null,
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": null,
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ABOLIÇÃO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ACARI",
+		"org": "facção",
+		"value": 22,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ÁGUA SANTA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ÁGUA SANTA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ALTO DA BOA VISTA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ANCHIETA",
+		"org": "facção",
+		"value": 108,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ANDARAÍ",
+		"org": "facção",
+		"value": 44,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BANCÁRIOS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BANGU",
+		"org": "facção",
+		"value": 140,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BANGU",
+		"org": "milícia",
+		"value": 110,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BARRA DA TIJUCA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BARRA DA TIJUCA",
+		"org": "milícia",
+		"value": 49,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BARROS FILHO",
+		"org": "facção",
+		"value": 25,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BENFICA",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BENFICA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BENTO RIBEIRO",
+		"org": "milícia",
+		"value": 23,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BONSUCESSO",
+		"org": "facção",
+		"value": 58,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BONSUCESSO",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BOTAFOGO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BOTAFOGO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BRÁS DE PINA",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "BRÁS DE PINA",
+		"org": "milícia",
+		"value": 32,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CACHAMBI",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CACHAMBI",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CACUIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CACUIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAJU",
+		"org": "facção",
+		"value": 22,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMORIM",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMORIM",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMPINHO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMPINHO",
+		"org": "milícia",
+		"value": 26,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMPO GRANDE",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAMPO GRANDE",
+		"org": "milícia",
+		"value": 510,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CASCADURA",
+		"org": "milícia",
+		"value": 213,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CATETE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CATUMBI",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CAVALCANTI",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 18,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 20,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CIDADE DE DEUS",
+		"org": "facção",
+		"value": 45,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CIDADE DE DEUS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CIDADE NOVA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CIDADE UNIVERSITÁRIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COELHO NETO",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COELHO NETO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COLÉGIO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COLÉGIO",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COMPLEXO DO ALEMÃO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COPACABANA",
+		"org": "facção",
+		"value": 26,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COPACABANA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CORDOVIL",
+		"org": "facção",
+		"value": 75,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CORDOVIL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COSME VELHO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COSMOS",
+		"org": "milícia",
+		"value": 61,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "COSTA BARROS",
+		"org": "facção",
+		"value": 51,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "CURICICA",
+		"org": "milícia",
+		"value": 76,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "DEL CASTILHO",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "DEL CASTILHO",
+		"org": "milícia",
+		"value": 44,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "DEODORO",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "DEODORO",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENCANTADO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO DA  RAINHA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO DA RAINHA",
+		"org": "facção",
+		"value": 55,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO DA RAINHA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO DE DENTRO",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO DE DENTRO",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ENGENHO NOVO",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ESTÁCIO",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ESTÁCIO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FAVELA BEIRA-RIO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FLAMENGO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FLAMENGO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FREGUESIA (ILHA DO GOVERNADOR)",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FREGUESIA (ILHA DO GOVERNADOR)",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FREGUESIA (JACAREPAGUÁ)",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "FREGUESIA (JACAREPAGUÁ)",
+		"org": "milícia",
+		"value": 13,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GALEÃO",
+		"org": "facção",
+		"value": 24,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GAMBOA",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GARDÊNIA AZUL",
+		"org": "milícia",
+		"value": 73,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GÁVEA",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GERICINÓ",
+		"org": "facção",
+		"value": 16,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GERICINÓ",
+		"org": "milícia",
+		"value": 41,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GLÓRIA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GLÓRIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GRAJAÚ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GRUMARI",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GUADALUPE",
+		"org": "facção",
+		"value": 28,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GUADALUPE",
+		"org": "milícia",
+		"value": 21,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "GUARATIBA",
+		"org": "milícia",
+		"value": 237,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "HIGIENÓPOLIS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "HIGIENÓPOLIS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "HONÓRIO GURGEL",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "HONÓRIO GURGEL",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "HUMAITÁ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ILHA DE GUARATIBA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "INHAÚMA",
+		"org": "facção",
+		"value": 29,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "INHAÚMA",
+		"org": "milícia",
+		"value": 38,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "INHOAÍBA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "INHOAÍBA",
+		"org": "milícia",
+		"value": 63,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "IPANEMA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "IPANEMA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "IRAJÁ",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "IRAJÁ",
+		"org": "milícia",
+		"value": 15,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ITANHANGÁ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ITANHANGÁ",
+		"org": "milícia",
+		"value": 51,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JACARÉ",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JACARÉ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JACAREPAGUÁ",
+		"org": "facção",
+		"value": 27,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JACAREPAGUÁ",
+		"org": "milícia",
+		"value": 324,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM AMÉRICA",
+		"org": "facção",
+		"value": 7,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM BOTÂNICO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM CARIOCA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM GUANABARA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM GUANABARA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "JARDIM SULACAP",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LAGOA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LAGOA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LARANJEIRAS",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LARANJEIRAS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LEBLON",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LEME",
+		"org": "facção",
+		"value": 41,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "LINS DE VASCONCELOS",
+		"org": "facção",
+		"value": 28,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MADUREIRA",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MADUREIRA",
+		"org": "milícia",
+		"value": 31,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MAGALHÃES BASTOS",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MAGALHÃES BASTOS",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MANGUEIRA",
+		"org": "facção",
+		"value": 11,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MANGUINHOS",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MANGUINHOS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARACANÃ",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARACANÃ",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARÉ",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARÉ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARECHAL HERMES",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MARECHAL HERMES",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MÉIER",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "MÉIER",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "OLARIA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "OLARIA",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "OSVALDO CRUZ",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "OSWALDO CRUZ",
+		"org": "milícia",
+		"value": 10,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PACIÊNCIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PACIÊNCIA",
+		"org": "milícia",
+		"value": 197,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PADRE MIGUEL",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PADRE MIGUEL",
+		"org": "milícia",
+		"value": 25,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PARADA DE LUCAS",
+		"org": "facção",
+		"value": 35,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PARADA DE LUCAS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PARQUE ANCHIETA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PARQUE ANCHIETA",
+		"org": "milícia",
+		"value": 18,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PAVUNA",
+		"org": "facção",
+		"value": 99,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PAVUNA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PEDRA DE  GUARATIBA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PEDRA DE GUARATIBA",
+		"org": "milícia",
+		"value": 29,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PENHA",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PENHA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PENHA CIRCULAR",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PENHA CIRCULAR",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PIEDADE",
+		"org": "facção",
+		"value": 39,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PIEDADE",
+		"org": "milícia",
+		"value": 26,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PILARES",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PILARES",
+		"org": "milícia",
+		"value": 26,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PITANGUEIRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PITANGUEIRAS",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PITANGUEIRAS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PORTUGUESA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PORTUGUESA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAÇA DA BANDEIRA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAÇA DA BANDEIRA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAÇA SECA",
+		"org": "facção",
+		"value": 21,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAÇA SECA",
+		"org": "milícia",
+		"value": 212,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAIA DA BANDEIRA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "PRAIA DA BANDEIRA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "QUINTINO BOCAIÚVA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "QUINTINO BOCAIÚVA",
+		"org": "milícia",
+		"value": 64,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RAMOS",
+		"org": "facção",
+		"value": 44,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RAMOS",
+		"org": "milícia",
+		"value": 35,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "REALENGO",
+		"org": "facção",
+		"value": 69,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "REALENGO",
+		"org": "milícia",
+		"value": 70,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RECREIO DOS BANDEIRANDES",
+		"org": "milícia",
+		"value": 47,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RECREIO DOS BANDEIRANTES",
+		"org": "milícia",
+		"value": 87,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RICARDO DE ALBUQUERQUE",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RICARDO DE ALBUQUERQUE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RIO COMPRIDO",
+		"org": "facção",
+		"value": 33,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "RIO COMPRIDO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCHA",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCHA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCHA MIRANDA",
+		"org": "facção",
+		"value": 29,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCHA MIRANDA",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCINHA",
+		"org": "facção",
+		"value": 29,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ROCINHA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SAMPAIO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTA CRUZ",
+		"org": "facção",
+		"value": 38,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTA CRUZ",
+		"org": "milícia",
+		"value": 362,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTA TERESA",
+		"org": "facção",
+		"value": 16,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTÍSSIMO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTÍSSIMO",
+		"org": "milícia",
+		"value": 51,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SANTO CRISTO",
+		"org": "facção",
+		"value": 40,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SÃO CONRADO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SÃO CONRADO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SÃO CRISTÓVÃO",
+		"org": "facção",
+		"value": 38,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SÃO CRISTÓVÃO",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SÃO FRANCISCO XAVIER",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SAÚDE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SENADOR CAMARÁ",
+		"org": "facção",
+		"value": 60,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SENADOR CAMARÁ",
+		"org": "milícia",
+		"value": 16,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SENADOR VASCONCELOS",
+		"org": "milícia",
+		"value": 15,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SEPETIBA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "SEPETIBA",
+		"org": "milícia",
+		"value": 288,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TANQUE",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TANQUE",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TAQUARA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TAQUARA",
+		"org": "milícia",
+		"value": 236,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TAUÁ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TIJUCA",
+		"org": "facção",
+		"value": 30,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TIJUCA",
+		"org": "milícia",
+		"value": 9,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TODOS OS SANTOS",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TOMÁS COELHO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TURIAÇU",
+		"org": "facção",
+		"value": 22,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "TURIAÇU",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VARGEM GRANDE",
+		"org": "milícia",
+		"value": 32,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VARGEM PEQUENA",
+		"org": "milícia",
+		"value": 25,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VAZ LOBO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VAZ LOBO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VICENTE DE CARVALHO",
+		"org": "facção",
+		"value": 48,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VICENTE DE CARVALHO",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VIDIGAL",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VIGÁRIO GERAL",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VIGÁRIO GERAL",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA COSMOS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA COSMOS",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA DA PENHA",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA ISABEL",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA ISABEL",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA KENNEDY",
+		"org": "facção",
+		"value": 83,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA KENNEDY",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA VALQUEIRE",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "VILA VALQUEIRE",
+		"org": "milícia",
+		"value": 49,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "RIO DE JANEIRO",
+		"bairro": "ZUMBI",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ALCÂNTARA",
+		"org": "facção",
+		"value": 36,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ALCÂNTARA",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ALMERINDA",
+		"org": "facção",
+		"value": 27,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "AMENDOEIRA",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "AMENDOEIRA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ANAIA PEQUENO",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ANTONINA",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ARRASTÃO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ARSENAL",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BARRACÃO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BARRO VERMELHO",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BARRO VERMELHO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BOA VISTA",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BOA VISTA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BOAÇU",
+		"org": "facção",
+		"value": 140,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BOAÇU",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "BOM RETIRO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 9,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "COELHO",
+		"org": "facção",
+		"value": 42,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "COLUBANDÊ",
+		"org": "facção",
+		"value": 19,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "COVANCA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ENGENHO PEQUENO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ENGENHO PEQUENO",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "GALO BRANCO",
+		"org": "facção",
+		"value": 13,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "GRADIM",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "GRADIM",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "GUAXINDIBA",
+		"org": "facção",
+		"value": 84,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "IPIÍBA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ITAOCA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ITAÚNA",
+		"org": "facção",
+		"value": 39,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JARDIM CATARINA",
+		"org": "facção",
+		"value": 183,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JARDIM CATARINA",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JARDIM NOVA REPÚBLICA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JOQUEI",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JÓQUEI",
+		"org": "facção",
+		"value": 30,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "JÓQUEI",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LAGOINHA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LARANJAL",
+		"org": "facção",
+		"value": 36,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LARANJAL",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LARGO DA IDÉIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LINDO PARQUE",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "LUIZ CAÇADOR",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MARAMBAIA",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MARIA PAULA",
+		"org": "facção",
+		"value": 77,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MIRIAMBI",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MONJOLO",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MONJOLO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MORRO DO CASTRO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MUTONDO",
+		"org": "facção",
+		"value": 14,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MUTUÁ",
+		"org": "facção",
+		"value": 27,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MUTUAGUAÇU",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "MUTUAPIRA",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "NEVES",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "NOVA CIDADE",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "NOVO MÉXICO",
+		"org": "facção",
+		"value": 31,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PACHECO",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PARAÍSO",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PATRONATO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PITA",
+		"org": "facção",
+		"value": 20,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO DA PEDRA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO DO ROSA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO NOVO",
+		"org": "facção",
+		"value": 12,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO NOVO",
+		"org": "milícia",
+		"value": 7,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO ROSA",
+		"org": "facção",
+		"value": 16,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO VELHO",
+		"org": "facção",
+		"value": 10,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "PORTO VELHO",
+		"org": "milícia",
+		"value": 8,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "RAUL VEIGA",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "RECANTO DAS ACÁCIAS",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "RIO DO OURO",
+		"org": "facção",
+		"value": 25,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ROCHA",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ROCHA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SACRAMENTO",
+		"org": "facção",
+		"value": 65,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SALGUEIRO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SANTA ANITA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SANTA ISABEL",
+		"org": "facção",
+		"value": 32,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SANTA LUZIA",
+		"org": "facção",
+		"value": 52,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SANTA LUZIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SÃO MIGUEL",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SETE PONTES",
+		"org": "facção",
+		"value": 43,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "SETE PONTES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "TENENTE JARDIM",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "TRIBOBÓ",
+		"org": "facção",
+		"value": 39,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "TRINDADE",
+		"org": "facção",
+		"value": 48,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VÁRZEA DAS MOÇAS",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VILA LAGE",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VILA LAGE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VILA TRÊS",
+		"org": "facção",
+		"value": 8,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VISTA ALEGRE",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "VISTA ALEGRE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO GONÇALO",
+		"bairro": "ZÉ GAROTO",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": null,
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "AGOSTINHO PORTO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "CENTRO",
+		"org": "facção",
+		"value": 33,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 6,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "COELHO DA ROCHA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "COELHO DA ROCHA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "ÉDEN",
+		"org": "facção",
+		"value": 75,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "ÉDEN",
+		"org": "milícia",
+		"value": 5,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "ENGENHEIRO BELFORD",
+		"org": "facção",
+		"value": 18,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM DA ALEGRIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM DA ALEGRIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM IRIS",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM IRIS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM ÍRIS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM JOSÉ BONIFÁCIO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM JOSÉ BONIFÁCIO",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM JUREMA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM MERITI",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM MERITI",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM METRÓPOLE",
+		"org": "facção",
+		"value": 23,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM METRÓPOLE",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM NOVA CALIFÓRNIA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM OLAVO BILAC",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM OLAVO BILAC",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM PARAÍSO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM SANTA ROSA",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM SANTO ANTÔNIO",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "JARDIM SUMARÉ",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE ANALÂNDIA",
+		"org": "facção",
+		"value": 15,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE ANALÂNDIA",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE ARARUAMA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE ARARUAMA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE BARRETO",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE BARRETO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE JURUTI",
+		"org": "milícia",
+		"value": 17,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE NOVO RIO",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE NOVO RIO",
+		"org": "milícia",
+		"value": 11,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE SÃO NICOLAU",
+		"org": "facção",
+		"value": 74,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE SÃO NICOLAU",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "PARQUE TIETÊ",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "SÃO MATEUS",
+		"org": "facção",
+		"value": 43,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "SÃO MATEUS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "SÍTIO DOS GANSOS",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "TOMAZINHO",
+		"org": "facção",
+		"value": 75,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "TOMAZINHO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "TREZENTOS",
+		"org": "facção",
+		"value": 6,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "TREZENTOS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VENDA VELHA",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VENDA VELHA",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA ANDORINHAS",
+		"org": "facção",
+		"value": 17,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA COLÚMBIA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA DOS TELES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA ROSALI",
+		"org": "facção",
+		"value": 4,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA ROSALI",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA SANTA RITA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA SÃO JOÃO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA SÃO JOÃO",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA TIRADENTES",
+		"org": "facção",
+		"value": 32,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILA ZULMIRA",
+		"org": "facção",
+		"value": 3,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILAR DOS TELES",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILAR DOS TELES",
+		"org": "milícia",
+		"value": 63,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SÃO JOÃO DE MERITI",
+		"bairro": "VILAR FORMOSO",
+		"org": "facção",
+		"value": 5,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": null,
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "BOA ESPERANÇA",
+		"org": "facção",
+		"value": 1,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "BOA ESPERANÇA",
+		"org": "milícia",
+		"value": 20,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "CAMPO LINDO",
+		"org": "milícia",
+		"value": 32,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "CENTRO",
+		"org": "milícia",
+		"value": 14,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "ECOLOGIA",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "FAZENDA CAXIAS",
+		"org": "milícia",
+		"value": 4,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "JARDIM MARACANÃ",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "JARDINS",
+		"org": "milícia",
+		"value": 2,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "KM40",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "PARQUE JACIMAR",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "PIRANEMA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "SANTA SOFIA",
+		"org": "milícia",
+		"value": 3,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "SEROPÉDICA",
+		"bairro": "SÃO MIGUEL",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "TANGUÁ",
+		"bairro": "DUQUES",
+		"org": "facção",
+		"value": 2,
+		"cor": "#11ce5c"
+	},
+	{
+		"cidade": "TANGUÁ",
+		"bairro": "DUQUES",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	},
+	{
+		"cidade": "TANGUÁ",
+		"bairro": "PINHÃO",
+		"org": "milícia",
+		"value": 1,
+		"cor": "#8280ff"
+	}
+]

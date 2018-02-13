@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: TIActuBeta-Bold;
+    src: url(TIActuBeta-Bold.otf);
+		font-weight: bold;
+}
+
+@font-face {
+    font-family: TIActuBeta-Regular;
+    src: url(TIActuBeta-Regular.otf);
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: "TIActuBeta-Regular", sans-serif !important;
+  transition: background-color .5s ease;
+  overflow: hidden
+}
+
+.flourish-popup {
+  pointer-events: none
+}
+
+.flourish-popup h1 {
+  font-size: inherit;
+  margin: 0;
+  font-weight: bold;
+}
+
+.flourish-popup h2 {
+  font-size: inherit;
+  font-weight: 300;
+  margin: 0
+}
+
+.flourish-popup h2 .name {
+  font-weight: 300
+}
+
+#nav h1, #nav h2 {
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.1em
+}
+
+#nav h1 {
+  font-weight: 700
+}
+
+#nav h2 {
+  font-weight: 300
+}
+
+@media screen and (max-width:600px) {
+  #nav h1, #nav h2 {
+    font-size: 20px
+  }
+}
+
+@media screen and (max-width:480px) {
+  #nav h1, #nav h2 {
+    font-size: 18px
+  }
+}
+
+@media screen and (max-width:400px) {
+  #nav h1, #nav h2 {
+    font-size: 16px
+  }
+}
+
+#legend {
+  font-size: 12px;
+  margin: 1em 0 0
+}
+
+#legend .series {
+  margin-right: 8px;
+  display: inline-block
+}
+
+#legend .series .swatch {
+  display: inline-block;
+  border-radius: 2px;
+  margin-right: 3px;
+  height: 10px;
+  width: 20px
+}
+
+@media screen and (max-width:400px) {
+  #legend .series .swatch {
+    height: 8px;
+    width: 15px
+  }
+}
+
+#legend .series .label {
+  display: inline-block
+}
+
+@media screen and (max-width:400px) {
+  #legend .series .label {
+    font-size: 11px
+  }
+}
+
+.bg rect {
+  transition: fill .5s ease
+}
+
+rect.selection {
+  fill-opacity: .1;
+  fill: orange!important
+}
+
+.data-elements .series .line, .tick, .x-highlighter {
+  pointer-events: none
+}
+
+.data-elements .series .data-points path {
+  shape-rendering: geometricPrecision
+}
+
+.annotations {
+  pointer-events: none
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,7 +1,22 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: TIActuBeta-Bold;
+    src: url(../TIActuBeta-Bold.otf);
+		font-weight: bold;
+}
+
+@font-face {
+    font-family: TIActuBeta-Regular;
+    src: url(../TIActuBeta-Regular.otf);
+}
+
 html, body{
     margin: 0;
     padding: 0;
     height:100%;
+    font-family: TIActuBeta-Regular, sans-serif !important;
+    /* 'Inconsolata', 'TIActuBeta-Bold', sans-serif */
 }
 
 .leaflet-top {
@@ -46,15 +61,15 @@ html, body{
     /*padding: 20px;*/
     right: 30px;
     bottom: 30px;
-    background-color: #fff;
+    background-color: #333;
     box-shadow: 0px 0px 5px #ccc;
     border-radius: 5px;
-    font-family: Helvetica, Verdana, sans-serif;
-    color: #aaa;
+    font-family: 'TIActuBeta-Regular', sans-serif !important;
+    color: #f4f4f4;
 }
 #info-map-legend h3 {
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     margin: 0;
     padding: 20px 20px 10px;
     font-weight: lighter;
@@ -67,14 +82,14 @@ html, body{
 #info-map-legend li {
     margin: 0 0 5px;
     padding: 0;
-    font-size: 14px;
+    font-size: 16px;
 }
 #info-map-legend span.source {
     display: block;
     border-top: 1px solid #ccc;
     padding: 10px 20px;
     margin-top: 10px;
-    font-size: 10px;
+    font-size: 12px;
 }
 #info-map-legend li > .faccao,
 #info-map-legend li > .milicia {
@@ -85,10 +100,10 @@ html, body{
     margin-right: 5px;
 }
 #info-map-legend li > .faccao {
-    background-color: #ae31d7;
+    background-color: #8280FF;
 }
 #info-map-legend li > .milicia {
-    background-color: #34d7ac;
+    background-color: #11CE5C;
 }
 path.line {
     fill: none;
@@ -118,7 +133,9 @@ path.line {
 }
 
 .x.axis text {
-    fill: #666;
+    fill: #f4f4f4;
+    font-family: 'TIActuBeta-Regular', sans-serif;
+    font-size: 12px;
 }
 
 .y.axis path {
@@ -132,7 +149,9 @@ path.line {
 }
 
 .y.axis text {
-    fill: #666;
+    fill: #f4f4f4;
+    font-family: 'TIActuBeta-Regular', sans-serif;
+    font-size: 14px;
 }
 
 .slider-thumb {
@@ -147,8 +166,8 @@ path.line {
 
 .slider-thumb .slider-handle-start,
 .slider-thumb .slider-handle-end {
-    height: 20px;
-    width: 20px;
+    height: 15px;
+    width: 15px;
     background: url(slider.svg) no-repeat top left;
     background-size: contain;
     margin-left: -10px;
@@ -177,5 +196,3 @@ path.line {
     fill: rgb(138, 138, 138);
     opacity: 0.2;
 }
-
-

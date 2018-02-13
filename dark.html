@@ -3,13 +3,23 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Intercept</title>
+        <title>Intercept - Ocorrências por grupo criminoso</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
         <link rel="stylesheet" href="js/leaflet/leaflet.css" />
         <link rel="stylesheet" href="css/style.css" />
         <style type="text/css">
+        @font-face {
+            font-family: TIActuBeta-Bold;
+            src: url(TIActuBeta-Bold.otf);
+        		font-weight: bold;
+        }
+
+        @font-face {
+            font-family: TIActuBeta-Regular;
+            src: url(TIActuBeta-Regular.otf);
+        }
+
             #info-map {
                 background-color: #333;
             }
@@ -33,15 +43,14 @@
         <div id="info-map"></div>
         <div id="info-map-controls"></div>
         <div id="info-map-legend">
-            <h3>ORGANIZAÇÃO</h3>
+            <h3>GRUPO</h3>
             <ul>
                 <li><span class="faccao"></span>Facção</li>
                 <li><span class="milicia"></span>Milícia</li>
             </ul>
-            <span class="source">Fonte: Secretária de Estado de Segurança Pública - SESEG</span>
+            <span class="source">Fonte: Disque Denúncia</span>
         </div>
-
+        <img src="sankey/logoclear.png" width="40px" style="float:left;position: absolute; left:3%; top: 94%" />
         <script src="js/app.js"></script>
     </body>
 </html>
-

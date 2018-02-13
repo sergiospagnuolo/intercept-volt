@@ -27,22 +27,22 @@ let myRenderer = L.canvas({ padding: 0.5 });
 
 let markerStyles = {
     "faccao": {
-        radius: 3,
-        fillColor: "#ae31d7",
+        radius: 2.5,
+        fillColor: "#8280FF",
         color: "#000",
         stroke: false,
         weight: 1,
         opacity: 0.5,
-        fillOpacity: 0.5
+        fillOpacity: 0.15
     },
     "milicia": {
-        radius: 3,
-        fillColor: "#34d7ac",
+        radius: 2.5,
+        fillColor: "#11CE5C",
         color: "#000",
         stroke: false,
         weight: 1,
         opacity: 0.5,
-        fillOpacity: 0.5
+        fillOpacity: 0.15
     }
 }
 
@@ -53,9 +53,9 @@ fetch("data/municipios.topojson").then(response => {
 }).then(response => {
     topoLayer.addData(response);
     topoLayer.setStyle({
-        "fillColor": "#fff",
+        "fillColor": "#f4f4f4",
         "fillOpacity": 1,
-        "color": "#ccc",
+        "color": "#000",
         "weight": 1,
         "opacity": 1
     });
@@ -120,11 +120,11 @@ let y = d3.scalePow()
     .exponent(.3)
     .range([height, 0]);
 
-let colors = d3.scaleOrdinal(["#ae31d7", "#34d7ac"]);
+let colors = d3.scaleOrdinal(["#8280FF", "#11CE5C"]);
 
 let xAxis = d3.axisBottom(x)
     .tickSize(-height)
-    .tickFormat(d3.timeFormat("%b/%y"));
+    .tickFormat(d3.timeFormat("%b - %y"));
 
 let bottomXAxis = d3.axisBottom(x)
     .tickSize(4)

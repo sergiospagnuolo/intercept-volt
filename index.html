@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Intercept</title>
+        <title>Intercept - Gráficos</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -16,20 +16,61 @@
         <script src="js/jquery/jquery-3.2.1.min.js"></script>
         <script src="js/jquery/jquery-ui.min.js"></script>
         <script src="js/jquery/jquery.ui.touch-punch.min.js"></script>
+        <style>
+        body{
+          background-color: #333;
+          color: #f4f4f4
+        }
+
+        a{
+          color: #8280FF;
+          text-decoration: none;
+          border-bottom: 1px #8280FF solid;
+        }
+
+        a:hover{
+          color: #FAFAFA
+        }
+
+        hr{
+          border: 1px #11CE5C dashed
+        }
+
+        ul {
+          max-width: 500px;
+        }
+
+        ul li{
+          line-height: 1.5em;
+          padding: 30px 0;
+        }
+        </style>
     </head>
     <body>
-        <div id="info-map"></div>
-        <div id="info-map-controls"></div>
-        <div id="info-map-legend">
-            <h3>ORGANIZAÇÃO</h3>
-            <ul>
-                <li><span class="faccao"></span>Facção</li>
-                <li><span class="milicia"></span>Milícia</li>
-            </ul>
-            <span class="source">Fonte: Secretária de Estado de Segurança Pública - SESEG</span>
-        </div>
 
-        <script src="js/app.js"></script>
+      <div style="max-width: 600px; margin: 0 auto">
+        <h1>Gráficos Intercept </h1>
+        <hr />
+        <p>Projeto Disque Deúncia</p>
+        <p>Gráficos por Sérgio Spagnuolo e Carolina Passos</p>
+        <p>Clique nos links abaixo para acessar os gráficos interativos do especial. Use a seta <img src="seta.png" width="18px" /> para voltar a esta página.</p>
+        <br />
+        <p>
+          <strong>GRÁFICOS FINALIZADOS</strong>
+        </p>
+        <ul>
+          <li><a href="dark.html"><strong>Mapa interativo</a></strong>, comparando evolução entre milícias e facções entre 2016/2017, com filtragem por data.</li>
+          <li><a href="sankey/index.html"><strong>Sankey Interativo</a></strong>, comparativo entre facções e milícias sobre os tipos de denúncias mais comuns em 2017</li>
+          <li><a href="line/index.html"><strong>Gráfico de linha</strong></a>, evolução de 1,83 milhão de deúncias</li>
+        </ul>
+
+        <h4>GRÁFICOS PROTÓTIPOS (não resposivos ou com bugs)</h4>
+        <ul>
+          <li><a href="sunburst/index.html">Sunburst Interativo</a></li>
+          <li><a href="treemap/index.html">Treemap Interativo</a></li>
+        </ul>
+
+      </div>
+
     </body>
 </html>
-
