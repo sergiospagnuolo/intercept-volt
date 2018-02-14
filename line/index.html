@@ -4,17 +4,18 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- The <title> is inserted by Flourish -->
-
-	<!-- Link to a stylesheet, or include an inline <style> section here -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Intercept Brasil | Evolução do Disque Denúncia</title>
 </head>
 
 <body>
-	<!-- If you want to start with a non-empty document, add elements here -->
-	<!-- Relative links are rewritten to refer to the files in the static directory -->
 
+<div id="wrapper" style="max-width: 900px">
+
+</div>
+<!-- <svg id="graphic" style="width: 100%;min-height: 400px"> </svg> -->
+<img src='logoclear.png' style='float:left;margin-left: 30px' width='40px' />
+<h5 style='color:#f4f4f4;font-size:.8em;float:right;font-weight:300;z-index:10000;margin-right:30px'>Fonte: Disque Denúncia</h5>
 
 	<script>
 		window.Flourish = {
@@ -4210,10 +4211,10 @@
 				t.select("h1")
 				.style("font-size", "2em")
 				.style("color", "#fafafa")
-				.html($c.title + "<img src='logoclear.png' style='position:absolute;top: 77%;left:2%' width='40px' />"),
+				.html($c.title),
 				t.select("h2")
 				.style("color", "#999")
-				.html($c.subtitle + "<br /> <span style='color:#f4f4f4;font-size:.6em;position:absolute;top: 77%;right:2%'>" + $c.fonte + "</span>")
+				.html($c.subtitle)
 			}
 
 			function qc(t) {
@@ -8232,9 +8233,15 @@
 				mp = $c.line_curve,
 				xp = rt();
 			return t.data = Hc, t.state = $c, t.draw = function() {
-				var t = cs("body").on("click", Rc).append("div").attr("id", "wrapper"),
+				//var t = cs("body").on("click", Rc).append("div").attr("id", "wrapper"),
+				  var t = cs("body").on("click", Rc).select("div").attr("id", "wrapper"),
 					e = t.append("div").attr("id", "nav");
-				e.append("h1"), e.append("h2"), e.append("div").attr("id", "legend"), t.append("svg").attr("id", "graphic"), xp.container(document.querySelector("#wrapper")), qc(!0), window.onresize = function() {
+				e.append("h1"), e.append("h2"), e.append("div").attr("id", "legend"),
+				//t.select("svg")
+				//.attr("id", "graphic")
+				t.append("svg")
+				.attr("id", "graphic"),
+				xp.container(document.querySelector("#linha")), qc(!0), window.onresize = function() {
 					qc(!0)
 				}
 			}, t.update = function() {
