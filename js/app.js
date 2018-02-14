@@ -124,7 +124,8 @@ let colors = d3.scaleOrdinal(["#8280FF", "#11CE5C"]);
 
 let xAxis = d3.axisBottom(x)
     .tickSize(-height)
-    .ticks(5)
+    .ticks(8)
+    .tickPadding(4)
     .tickFormat(d3.timeFormat("%b - %y"));
 
 let bottomXAxis = d3.axisBottom(x)
@@ -136,7 +137,7 @@ let yAxis = d3.axisLeft(y)
     .tickSize(-width)
     .tickPadding(-100)
     .tickFormat(function(d) {
-        return d === 350 ? d + " ocorrências" : d;
+        return d === 350 ? d + " denúncias" : d;
     });
 
 let clip = canvas.append("clipPath")
@@ -175,7 +176,7 @@ d3.csv("data/timeline.csv", function(d) {
       });
 
     let valueline = d3.line()
-        .curve(d3.curveLinear)
+        .curve(d3.curveMonotoneX)
         .x(function(d) { return x(d.month); })
         .y(function(d) { return y(d.count); });
 
