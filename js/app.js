@@ -124,6 +124,7 @@ let colors = d3.scaleOrdinal(["#8280FF", "#11CE5C"]);
 
 let xAxis = d3.axisBottom(x)
     .tickSize(-height)
+    .ticks(5)
     .tickFormat(d3.timeFormat("%b - %y"));
 
 let bottomXAxis = d3.axisBottom(x)
