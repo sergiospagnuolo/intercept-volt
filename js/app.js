@@ -168,10 +168,10 @@ d3.csv("data/timeline.csv", function(d) {
 }, function(error, data) {
     let organizations = data.columns.slice(1).map(function(id) {
         return {
-          id: id,
-          values: data.map(function(d) {
-            return {month: d.month, count: d[id]};
-          })
+            id: id,
+            values: data.map(function(d) {
+                return {month: d.month, count: d[id]};
+            })
         };
       });
 
@@ -199,7 +199,7 @@ d3.csv("data/timeline.csv", function(d) {
     let organisation = axesLayer.selectAll(".organisation")
         .data(organizations)
         .enter().append("g")
-          .attr("class", "organisation");
+            .attr("class", "organisation");
 
       organisation.append("path")
             .attr("class", "line")
@@ -289,29 +289,29 @@ let rangeStart = 0,
         .attr("y2", height);
 
 let selection = sliderLayer.append("rect")
-            .attr("id", "selection")
-            .attr("class", "selection")
-            .attr("x", startSliderThumb.node().offsetLeft)
-            .attr("y", 0 - margin.top)
-            .attr("height", height + margin.top)
-            .attr("width", endSliderThumb.node().offsetLeft - startSliderThumb.node().offsetLeft - margin.left)
-            .call(
-                d3.drag().on("drag", function(){
-                        let position = +this.getAttribute("x") + d3.event.dx,
-                            selectionWidth = position + +selection.attr("width");
+    .attr("id", "selection")
+    .attr("class", "selection")
+    .attr("x", startSliderThumb.node().offsetLeft)
+    .attr("y", 0 - margin.top)
+    .attr("height", height + margin.top)
+    .attr("width", endSliderThumb.node().offsetLeft - startSliderThumb.node().offsetLeft - margin.left)
+    .call(
+        d3.drag().on("drag", function(){
+            let position = +this.getAttribute("x") + d3.event.dx,
+                selectionWidth = position + +selection.attr("width");
 
-                        if (position < 0 || selectionWidth > width) return;
+            if (position < 0 || selectionWidth > width) return;
 
-                        selection.attr("x", position);
-                        startSlider.updatePosition(position);
-                        endSlider.updatePosition(selectionWidth);
+            selection.attr("x", position);
+            startSlider.updatePosition(position);
+            endSlider.updatePosition(selectionWidth);
 
-                        startDate = (x.invert(position));
-                        endDate = (x.invert(selectionWidth));
+            startDate = (x.invert(position));
+            endDate = (x.invert(selectionWidth));
 
-                        filterByDateRange(startDate, endDate);
-                })
-            );
+            filterByDateRange(startDate, endDate);
+        })
+    );
 
 startSlider.updatePosition = function(position) {
     $(".slider.slider-start .slider-thumb").css({left: position});
