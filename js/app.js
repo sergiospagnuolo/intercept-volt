@@ -22,7 +22,7 @@ let map = L.map('info-map', {
 
 let geoData;
 let markers = [];
-let marker_layer;
+let makerLayers = {};
 let myRenderer = L.canvas({ padding: 0.5 });
 
 let markerStyles = {
@@ -65,34 +65,54 @@ fetch("data/municipios.topojson").then(response => {
       return response.json();
     }).then(response => {
         geoData = response;
-        marker_layer = L.geoJson(geoData, {
+        makerLayers["milicia"] = L.geoJson(geoData, {
             pointToLayer: function (feature, latlng) {
                 var i = feature.properties.id;
-                markers[i] = L.circleMarker(latlng, markerStyles[feature.properties.organizaca]);
-                return markers[i];
+                if (feature.properties.organizaca == 'milicia' ){
+                    markers[i] = L.circleMarker(latlng, markerStyles[feature.properties.organizaca]);
+                    return markers[i];
+                }
             }
         });
-        marker_layer.addTo(map);
+        makerLayers["faccao"] = L.geoJson(geoData, {
+            pointToLayer: function (feature, latlng) {
+                var i = feature.properties.id;
+                if (feature.properties.organizaca == 'faccao' ){
+                    markers[i] = L.circleMarker(latlng, markerStyles[feature.properties.organizaca]);
+                    return markers[i];
+                }
+            }
+        });
+        makerLayers["milicia"].addTo(map);
+        makerLayers["faccao"].addTo(map);
     });
 });
 
-
 function filterByDateRange(greater_than_date, less_than_date) {
-
-    if (map.hasLayer(marker_layer)) {
-        map.removeLayer(marker_layer);
+    if (map.hasLayer(makerLayers["milicia"])) {
+        map.removeLayer(makerLayers["milicia"]);
+    }
+    if (map.hasLayer(makerLayers["faccao"])) {
+        map.removeLayer(makerLayers["faccao"]);
     }
 
-    marker_layer = new L.featureGroup();
+    makerLayers["milicia"] = new L.featureGroup();
+    makerLayers["faccao"] = new L.featureGroup();
 
     geoData.features.forEach((feature, index) => {
         let featureDate =  new Date(feature.properties.data);
-        // debugger;
         if (featureDate <= less_than_date && featureDate >= greater_than_date) {
-            marker_layer.addLayer(markers[feature.properties.id]);
+            if (feature.properties.organizaca == 'milicia' ){
+                makerLayers["milicia"].addLayer(markers[feature.properties.id]);
+            }
+            if (feature.properties.organizaca == 'faccao' ){
+                makerLayers["faccao"].addLayer(markers[feature.properties.id]);
+            }
         }
     });
-    marker_layer.addTo(map);
+
+    makerLayers["milicia"].addTo(map);
+    makerLayers["faccao"].addTo(map);
 }
 
 var startDate,
@@ -357,4 +377,19 @@ $(".slider .slider-thumb").draggable({
         startGuideline.classed("drag", false);
         endGuideline.classed("drag", false);
     }
+});
+
+
+document.querySelectorAll("#info-map-legend li a").forEach((element, index) => {
+    element.addEventListener("click",function(e) {
+        let className = e.target.parentElement.className;
+
+        if (map.hasLayer(makerLayers[className])) {
+            map.removeLayer(makerLayers[className]);
+            e.target.classList.add("off");
+        } else {
+            map.addLayer(makerLayers[className]);
+            e.target.classList.remove("off");
+        }
+    })
 });
