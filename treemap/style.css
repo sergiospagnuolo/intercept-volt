@@ -154,7 +154,7 @@ h5{
 @media (min-width:520px) {
   #legend .legend_labels {
     width: auto;
-    padding: 2px 4px
+    padding: 2px 4px;
   }
   #legend .legend_labels .color {
     height: 10px;
