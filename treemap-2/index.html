@@ -12,23 +12,10 @@
 
 	<title>intercept - facções vs milícias 2016/2017</title>
 	<style>
-	@charset "UTF-8";
-
-	@font-face {
-	    font-family: TIActuBeta-Bold;
-	    src: url(TIActuBeta-Bold.otf);
-			font-weight: bold;
-	}
-
-	@font-face {
-	    font-family: TIActuBeta-Regular;
-	    src: url(TIActuBeta-Regular.otf);
-	}
 	body{
 		font-family: 'TIActuBeta-Regular', sans-serif;
 	  -webkit-font-smoothing: antialiased;
-	  background-color: #333;
-		padding: 20px;
+	  background-color: #333
 	}
 	h1{
 	  color: #f4f4f4;
@@ -57,9 +44,10 @@
 </head>
 
 <body>
-	<h1>Territórios do crime</h1>
-	<h2>Quem teve mais ocorrências em cidades do Rio de Janeiro no Disque Denúncia, <span style="color:#8280FF">facções</span> ou <span style="color:#11CE5C">milícias</span>? No gráfico abaixo, compare a participação de cada organização criminosa em relação a 12,8 mil denúncias reportadas entre 2016 e 2017.</h2>
+	<h1>Divisão do crime</h1>
+	<h2>Quem ganhou mais território em cidades do Rio de Janeiro, <span style="color:#8280FF">fações</span> ou <span style="color:#11CE5C">milícias</span>? No gráfico abaixo, compare a participação de cada organização criminosa em relação a 12,8 mil ocorrências reportadas ao Disque Denúncia entre 2016 e 2017.</h2>
 	<div id="wrapper"> </div>
+	<h5 style="float:left">Fonte: Disque Denúncia</h5>
 
 	<script>
 		window.Flourish = {
@@ -1984,7 +1972,7 @@
 							fc.columns_to_exclude.splice(n, 1)
 						}
 						or()
-					}), b.exit().remove(), fc.dropdown_translations && cr(fc.dropdown_translations), ra("#dropdown-container").style("display", fc.hide_dropdown || jc ? "none" : "block").select("#dropdown-label").text(fc.dropdown_label).style("color", "#f4f4f4");
+					}), b.exit().remove(), fc.dropdown_translations && cr(fc.dropdown_translations), ra("#dropdown-container").style("display", fc.hide_dropdown || jc ? "none" : "block").select("#dropdown-label").text(fc.dropdown_label);
 					var g = ra("#dropdown > select").html("").on("change", function() {
 						fc.current_id = this.value, or()
 					});
@@ -3526,7 +3514,7 @@
 					margin_top: 10,
 					margin_right: 10,
 					margin_bottom: 0,
-					margin_left: 5,
+					margin_left: 10,
 					bg_color: "#FFFFFF",
 					palette: "flourish_default_1",
 					custom_colors: "",
@@ -3948,7 +3936,7 @@
 			"label_font_color": "#f4f4f4",
 			"label_font_size": 18,
 			"middle_line_content": "",
-			"middle_line_text_color": "#ededed",
+			"middle_line_text_color": "#f4f4f4",
 			"middle_line_width": 3,
 			"palette": "schemeCategory10",
 			"placeholder_text": "Não temos estes dados",
