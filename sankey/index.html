@@ -7,7 +7,13 @@
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	<title>Intercept Brasil | Facções vs Milícias</title>
 </head>
-
+<style>
+@media (max-width:580px) {
+	h2 {
+		font-size: 1em
+	}
+}
+</style>
 <body>
 
 	<script>
@@ -342,7 +348,7 @@
 				tr.title ? Wr.style("display", "block")
 				.style("color", "#fafafa")
 				.style("font-size", "2em")
-				.html(tr.title + "<img src='logoclear.png' style='position:absolute;top: 94%;left:2%' width='40px' />") : Wr.style("display", "none"),
+				.html(tr.title) : Wr.style("display", "none"),
 				tr.subtitle ? Gr.style("display", "block")
 				.style("color", "#999")
 				.html(tr.subtitle + "<br /> <span style='color:#f4f4f4;font-size:.6em;float:right'>" + tr.fonte + "</span>") : Gr.style("display", "none")
@@ -1735,7 +1741,7 @@
 					max_margin: 30,
 					font_size: 16,
 					use_custom_palette: !0,
-					custom_palette: "facção: #1381db\nmilícia: #db3413\ndrogas: #88419d\nextorsão: #8c6bb1\narmas: #8c96c6\nobstrução de vias públicas: #9ebcda\nagressão/tentativa de homicídio: #e0ecf4\nhomicídio: #f7fcfd\nroubo: #bfd3e6\noutros: #969696",
+					custom_palette: "facção: #1381db\nmilícia: #db3413\ndrogas: #88419d\nextorsão: #8c6bb1\narmas: #8c96c6\nobstrução de vias públicas: #9ebcda\ntentativa de homicídio: #e0ecf4\nhomicídio: #f7fcfd\nroubo: #bfd3e6\noutros: #969696",
 					bg_color: "#ffffff",
 					default_color: "#000",
 					label_color: "#fff",
@@ -3216,7 +3222,7 @@
 	<script>
 		var _Flourish_settings = {
 			"bg_color": "#333",
-			"custom_palette": "facção: #6653FF\nmilícia: #11CE5C\ndrogas: #810f7c\nextorsão: #88419d\narmas: #8c6bb1\nobstrução de vias públicas: #8c96c6\nagressão física ou tentativa de homicídio: #9ebcda\nhomicídio: #bfd3e6\nroubo: #e0ecf4\noutros: #f7fcfd",
+			"custom_palette": "facção: #6653FF\nmilícia: #11CE5C\ndrogas: #810f7c\nextorsão: #88419d\narmas: #8c6bb1\nobstrução de vias públicas: #8c96c6\ntentativa de homicídio: #9ebcda\nhomicídio: #bfd3e6\nroubo: #e0ecf4\noutros: #f7fcfd",
 			"default_color": "#fff",
 			"font_size": 16,
 			"link_opacity": 0.4,
@@ -3255,7 +3261,7 @@
 					"value": "239"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "157"
 				}, {
 					"source": "milícia",
@@ -3307,7 +3313,7 @@
 					"value": "35"
 				}, {
 					"source": "facção",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "29"
 				}, {
 					"source": "milícia",
@@ -3339,7 +3345,7 @@
 					"value": "21"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "20"
 				}, {
 					"source": "milícia",
@@ -3367,7 +3373,7 @@
 					"value": "14"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "14"
 				}, {
 					"source": "facção",
@@ -3391,7 +3397,7 @@
 					"value": "10"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "8"
 				}, {
 					"source": "milícia",
@@ -3415,7 +3421,7 @@
 					"value": "6"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "6"
 				}, {
 					"source": "facção",
@@ -3459,7 +3465,7 @@
 					"value": "4"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "4"
 				}, {
 					"source": "milícia",
@@ -3515,7 +3521,7 @@
 					"value": "3"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "3"
 				}, {
 					"source": "milícia",
@@ -3547,7 +3553,7 @@
 					"value": "2"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "2"
 				}, {
 					"source": "facção",
@@ -3611,11 +3617,11 @@
 					"value": "1"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "facção",
@@ -3627,19 +3633,7 @@
 					"value": "1"
 				}, {
 					"source": "facção",
-					"target": "agressão física ou tentativa de homicídio",
-					"value": "1"
-				}, {
-					"source": "facção",
-					"target": "roubo",
-					"value": "1"
-				}, {
-					"source": "milícia",
-					"target": "roubo",
-					"value": "1"
-				}, {
-					"source": "milícia",
-					"target": "roubo",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "facção",
@@ -3647,6 +3641,18 @@
 					"value": "1"
 				}, {
 					"source": "milícia",
+					"target": "roubo",
+					"value": "1"
+				}, {
+					"source": "milícia",
+					"target": "roubo",
+					"value": "1"
+				}, {
+					"source": "facção",
+					"target": "roubo",
+					"value": "1"
+				}, {
+					"source": "milícia",
 					"target": "outros",
 					"value": "1"
 				}, {
@@ -3671,19 +3677,19 @@
 					"value": "1"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "facção",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "milícia",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "facção",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "milícia",
@@ -3711,7 +3717,7 @@
 					"value": "1"
 				}, {
 					"source": "facção",
-					"target": "agressão física ou tentativa de homicídio",
+					"target": "tentativa de homicídio",
 					"value": "1"
 				}, {
 					"source": "facção",
