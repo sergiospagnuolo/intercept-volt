@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: TIActuBeta-Bold;
+    src: url(TIActuBeta-Bold.otf);
+		font-weight: bold;
+}
+
+@font-face {
+    font-family: TIActuBeta-Regular;
+    src: url(TIActuBeta-Regular.otf);
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	font-family: "TIActuBeta-Regular";
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.svg-container, svg {
+	margin: 0px;
+	padding: 0px;
+}
+
+svg {
+	display: block;
+	line-height: 0;
+}
+
+#titles h1,
+#titles h2 {
+	margin: 0;
+	font-size: 22px;
+	line-height: 1.15em;
+}
+
+#titles h1 {
+	font-family: "TIActuBeta-Bold";
+}
+
+#titles h2 {
+	font-weight: 300
+}
+
+@media screen and (max-width:600px) {
+	#titles h1,
+	#titles h2 {
+		font-size: 20px
+	}
+}
+
+@media screen and (max-width:480px) {
+	#titles h1,
+	#titles h2 {
+		font-size: 18px
+	}
+}
