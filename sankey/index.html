@@ -1692,7 +1692,7 @@
 					Xe(r), De(i), Re(e)
 				} else ia.interrupt().transition().duration(wa).style("opacity", 1).on("end", function() {
 					oa.style("opacity", 0), Xe(), De()
-				}), e = ("always" === tr.show_link_values ? Jo.concat(ta) : Jo.slice()).sort(He).map(function(t) {
+				}), e = ("focused" === tr.show_link_values ? Jo.concat(ta) : Jo.slice()).sort(He).map(function(t) {
 					return void 0 !== t.is_source ? Ie(t) : ze(t)
 				}), Re(e)
 			}
@@ -1748,7 +1748,7 @@
 					value_outline: "label_color",
 					link_opacity: .25,
 					background_opacity: .25,
-					show_link_values: "focused",
+					show_link_values: "0",
 					translation_duration: .5,
 					clip_duration: 0,
 					n_dec: 0,
@@ -3226,8 +3226,8 @@
 			"default_color": "#fff",
 			"font_size": 16,
 			"link_opacity": 0.4,
-			"show_link_values": "focused",
-			"subtitle": "Tipos de ocorrências recebidas pelo Disque Denúncia sobre grupos criminosos em 22 cidades cariocas em 2017",
+			"show_link_values": "",
+			"subtitle": "Total de ocorrências recebidas pelo Disque Denúncia sobre grupos criminosos e tipo de denúncias, em 22 cidades cariocas em 2017",
 			"title": "Facções vs Milícias no RJ",
 			"fonte": "\n Fonte: Disque Denúncia",
 			"value_outline": "none"

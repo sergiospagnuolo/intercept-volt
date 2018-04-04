@@ -14,7 +14,7 @@ L.TopoJSON = L.GeoJSON.extend({
 
 let map = L.map('info-map', {
     preferCanvas: true,
-    minZoom: 9,
+    minZoom: 2,
     maxZoom: 13,
     maxBounds: L.latLngBounds(L.latLng(-25.037,-46.120), L.latLng(-18.905, -38.903)),
     maxBoundsViscosity: 1.0
@@ -32,7 +32,7 @@ let markerStyles = {
         color: "#000",
         stroke: false,
         weight: 1,
-        opacity: 0.5,
+        opacity: 0.9,
         fillOpacity: 0.15
     },
     "milicia": {
@@ -41,7 +41,7 @@ let markerStyles = {
         color: "#000",
         stroke: false,
         weight: 1,
-        opacity: 0.5,
+        opacity: 0.9,
         fillOpacity: 0.15
     }
 }
