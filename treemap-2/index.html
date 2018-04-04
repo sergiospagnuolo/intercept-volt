@@ -12,6 +12,18 @@
 
 	<title>intercept - facções vs milícias 2016/2017</title>
 	<style>
+	@charset "UTF-8";
+
+	@font-face {
+	    font-family: TIActuBeta-Bold;
+	    src: url(TIActuBeta-Bold.otf);
+			font-weight: bold;
+	}
+
+	@font-face {
+	    font-family: TIActuBeta-Regular;
+	    src: url(TIActuBeta-Regular.otf);
+	}
 	body{
 		font-family: 'TIActuBeta-Regular', sans-serif;
 	  -webkit-font-smoothing: antialiased;
@@ -1971,7 +1983,7 @@
 							fc.columns_to_exclude.splice(n, 1)
 						}
 						or()
-					}), b.exit().remove(), fc.dropdown_translations && cr(fc.dropdown_translations), ra("#dropdown-container").style("display", fc.hide_dropdown || jc ? "none" : "block").select("#dropdown-label").text(fc.dropdown_label);
+					}), b.exit().remove(), fc.dropdown_translations && cr(fc.dropdown_translations), ra("#dropdown-container").style("display", fc.hide_dropdown || jc ? "none" : "block").select("#dropdown-label").text(fc.dropdown_label).style("color", "#f4f4f4");
 					var g = ra("#dropdown > select").html("").on("change", function() {
 						fc.current_id = this.value, or()
 					});
@@ -3927,7 +3939,7 @@
 		var _Flourish_settings = {
 			"current_id": "RIO DE JANEIRO",
 			"custom_colors": "#11CE5C, #8280FF",
-			"dropdown_label": "",
+			"dropdown_label": "Escolha uma cidade: ",
 			"dropdown_translations": "RIO DE JANEIRO: RIO DE JANEIRO",
 			"hide_dropdown": false,
 			"hide_empty_rows": true,
