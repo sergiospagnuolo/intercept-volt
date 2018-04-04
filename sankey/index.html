@@ -351,7 +351,7 @@
 				.html(tr.title) : Wr.style("display", "none"),
 				tr.subtitle ? Gr.style("display", "block")
 				.style("color", "#999")
-				.html(tr.subtitle + "<br /> <span style='color:#f4f4f4;font-size:.6em;float:right'>" + tr.fonte + "</span>") : Gr.style("display", "none")
+				.html(tr.subtitle ) : Gr.style("display", "none")
 			}
 
 			function tt() {
@@ -1713,7 +1713,7 @@
 				va = t ? 0 : 1e3 * tr.translation_duration;
 				var n = window.innerWidth,
 					e = Math.max(window.innerHeight - da.getBoundingClientRect().height, 0);
-				_a = Se(), na.attr("width", n).attr("height", e).attr("font-size", tr.font_size), ea.text("");
+				_a = Se(), na.attr("width", n).attr("height", "750px").attr("font-size", tr.font_size), ea.text("");
 				var r = Math.min(tr.max_margin, .05 * n, .05 * e),
 					i = ya.extent([
 						[r, 0],

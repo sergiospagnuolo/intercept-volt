@@ -20,8 +20,8 @@ html, body {
 }
 
 .svg-container, svg {
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
 
 svg {
