@@ -49,6 +49,21 @@ html, body{
     width: 100%;
     margin: 0 auto;
 }
+#info-map-titulo {
+    position: absolute;
+    z-index: 1;
+    /*padding: 20px;*/
+    left: 20px;
+    top: 20px;
+    margin-right: 30px;
+    background-color: #333;
+    /*box-shadow: 0px 0px 5px #ccc;*/
+    border-radius: 5px;
+    font-family: 'TIActuBeta-Regular', sans-serif !important;
+    color: #f4f4f4;
+    padding: 5px 20px;
+    max-width: 300px
+}
 #info-map {
     z-index: 0;
     /*display: none;*/
