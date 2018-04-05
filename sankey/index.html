@@ -1704,9 +1704,9 @@
 					var t = Zr(lr.target);
 					t.classed("node") || t.classed("link") || (tr.focus = "", Ke())
 				}), ea = na.append("defs"), ra = na.append("g").attr("class", "sankey"), ia = ra.append("g").attr("class", "base-layer").style("opacity", tr.focus ? tr.background_opacity : 1), oa = ra.append("g").attr("class", "highlight-layer").style(
-					"pointer-events", "none").style("opacity", tr.focus ? 1 : 0), aa = ra.append("g").attr("class", "label-layer").style("pointer-events", "none"), ua = ra.append("g").attr("class", "temp-layer").style("visibility", "hidden").style(
+					"pointer-events", "none").style("opacity", tr.focus ? 0 : 0), aa = ra.append("g").attr("class", "label-layer").style("pointer-events", "none"), ua = ra.append("g").attr("class", "temp-layer").style("visibility", "hidden").style(
 					"pointer-events", "none"), sa = ia.append("g").attr("class", "links"), ca = ia.append("g").attr("class", "nodes"), la = oa.append("g").attr("class", "links"), fa = oa.append("g").attr("class", "nodes"), ha = aa.append("g").attr("class",
-					"node_labels"), pa = aa.append("g").attr("class", "link_labels"), ya = Yo().nodeWidth(ma).nodePadding(10).iterations(0)
+					"node_labels"), pa = aa.append("g").attr("class", "link_labels").style("display", "none"), ya = Yo().nodeWidth(ma).nodePadding(10).iterations(0)
 			}
 
 			function Ge(t) {
