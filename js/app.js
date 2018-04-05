@@ -18,7 +18,7 @@ let map = L.map('info-map', {
     maxZoom: 13,
     maxBounds: L.latLngBounds(L.latLng(-25.037,-46.120), L.latLng(-18.905, -38.903)),
     maxBoundsViscosity: 1.0
-}).setView([-22.794, -43.251], 10);
+}).setView([-22.794, -43.251], 9);
 
 let geoData;
 let markers = [];
@@ -32,7 +32,7 @@ let markerStyles = {
         color: "#000",
         stroke: false,
         weight: 1,
-        opacity: 0.9,
+        opacity: 0.6,
         fillOpacity: 0.15
     },
     "milicia": {
@@ -41,7 +41,7 @@ let markerStyles = {
         color: "#000",
         stroke: false,
         weight: 1,
-        opacity: 0.9,
+        opacity: 0.6,
         fillOpacity: 0.15
     }
 }
