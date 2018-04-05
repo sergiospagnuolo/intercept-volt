@@ -2259,36 +2259,6 @@ def my_form_open(dialog, layer, feature):
         </LayoutItem>
         <GuideCollection visible="1"/>
       </PageCollection>
-      <LayoutItem frameJoinStyle="miter" blendMode="0" templateUuid="{76f9c107-be19-4731-a7ec-318342db81bf}" groupUuid="" positionOnPage="16.9574,200.275,mm" excludeFromExports="0" position="16.9574,200.275,mm" size="57.1595,5.1087,mm" type="65641" outlineWidthM="0.3,mm" positionLock="false" marginY="0" halign="8" visibility="1" htmlState="0" valign="32" zValue="4" frame="false" itemRotation="0" labelText="Fonte: Disque Denúncia (RJ)" opacity="1" background="false" id="" referencePoint="0" uuid="{76f9c107-be19-4731-a7ec-318342db81bf}" marginX="0">
-        <FrameColor blue="0" alpha="255" red="0" green="0"/>
-        <BackgroundColor blue="255" alpha="255" red="255" green="255"/>
-        <LayoutObject>
-          <dataDefinedProperties>
-            <Option type="Map">
-              <Option value="" type="QString" name="name"/>
-              <Option name="properties"/>
-              <Option value="collection" type="QString" name="type"/>
-            </Option>
-          </dataDefinedProperties>
-          <customproperties/>
-        </LayoutObject>
-        <LabelFont style="Regular" description="PT Mono,9,-1,5,50,0,0,0,0,0,Regular"/>
-        <FontColor blue="0" red="0" green="0"/>
-      </LayoutItem>
-      <LayoutItem frameJoinStyle="miter" svgBorderWidth="0.2" pictureRotation="0" blendMode="0" templateUuid="{a9eb9807-b110-48b6-bb09-4be5d3b52096}" groupUuid="" pictureWidth="18.1136" positionOnPage="270.869,185.104,mm" excludeFromExports="0" svgBorderColor="0,0,0,255" position="270.869,185.104,mm" pictureHeight="18.1136" size="18.1136,20.2805,mm" type="65640" outlineWidthM="0.3,mm" file="../../Downloads/intercept_logo.png" resizeMode="0" positionLock="false" visibility="1" mapUuid="" zValue="3" frame="false" itemRotation="0" opacity="1" svgFillColor="255,255,255,255" background="false" id="" referencePoint="0" anchorPoint="0" uuid="{a9eb9807-b110-48b6-bb09-4be5d3b52096}" northMode="0" northOffset="0">
-        <FrameColor blue="0" alpha="255" red="0" green="0"/>
-        <BackgroundColor blue="255" alpha="255" red="255" green="255"/>
-        <LayoutObject>
-          <dataDefinedProperties>
-            <Option type="Map">
-              <Option value="" type="QString" name="name"/>
-              <Option name="properties"/>
-              <Option value="collection" type="QString" name="type"/>
-            </Option>
-          </dataDefinedProperties>
-          <customproperties/>
-        </LayoutObject>
-      </LayoutItem>
       <LayoutItem type="65642" zValue="2" wmsLegendWidth="50" boxSpace="2" uuid="{31745ee8-c0ef-4720-b5c6-94b6f9a2e3bf}" titleAlignment="1" rasterBorderColor="0,0,0,255" fontColor="#000000" resizeToContents="1" referencePoint="0" templateUuid="{31745ee8-c0ef-4720-b5c6-94b6f9a2e3bf}" groupUuid="" symbolHeight="4" lineSpacing="1" columnCount="1" size="118.623,44.4312,mm" equalColumnWidth="0" wrapChar="" frameJoinStyle="miter" columnSpace="2" id="legenda" opacity="1" symbolWidth="7" position="18.8836,26.0774,mm" outlineWidthM="0.3,mm" title=" " wmsLegendHeight="25" splitLayer="0" legendFilterByAtlas="0" visibility="1" frame="false" itemRotation="0" excludeFromExports="0" rasterBorder="1" background="true" map_uuid="{a256058f-0119-4613-9f61-3f8e6bce4dea}" positionOnPage="18.8836,26.0774,mm" positionLock="false" blendMode="0" rasterBorderWidth="0">
         <FrameColor blue="0" alpha="255" red="0" green="0"/>
         <BackgroundColor blue="255" alpha="255" red="255" green="255"/>
