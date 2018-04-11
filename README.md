@@ -1,6 +1,8 @@
 # intercept-volt
 Intercept + Volt Data Lab interface for joint dataviz projects
 
+Most graphics were made using the [Flourish](https://flourish.studio/) D3 wrap.
+
 ## To run on localhost
 
 This project contains all the dependencies it needs for its visualizations to work seamlessly without outside resources, such as CNDs or APIs.
